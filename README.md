@@ -35,12 +35,4 @@ Este proyecto implementa y compara tres configuraciones de **Deep Convolutional 
 ✅ La **Configuración C (z=200)** fue la más óptima y consistente.  
 ✅ La **Configuración B (z=50)** destacó en KID, pero mostró mayor inestabilidad.  
 
-## 📂 Estructura del proyecto  
-├── checkpoints/ # Modelos entrenados (.pth)
-├── outputs/ # Imágenes generadas durante entrenamiento
-├── results/ # Comparaciones y evaluaciones
-├── DiazQuevedoEvieNataly_DL_Informe.pdf # Informe del proyecto
-├── DiazQuevedoEvieNataly_DeepLearning_GAN.ipynb # Notebook con código
-└── README.md # Este archivo
-
 
